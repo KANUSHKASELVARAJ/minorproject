@@ -1,0 +1,2 @@
+# minorproject
+placemantra minor project
